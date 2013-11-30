@@ -1,0 +1,7 @@
+{
+  "name": "Rainbow DevTools Theme",
+  "version": "1.1",
+  "description": "Sample DevTools theme. Enable DevTools experiments in about:flags, then open DevTools and toggle \"Allow UI themes\" experiment.",
+  "devtools_page": "devtools.html",
+  "manifest_version": 2
+}
