@@ -14,6 +14,8 @@ Use the format of this repo to make your own devtools theme, just make a `styles
 
 You can also use Yeoman to easily create new themes: https://github.com/zenorocha/generator-devtools-theme
 
+Then publish to the web store. Please add ["devtools theme"](https://chrome.google.com/webstore/search-extensions/devtools%20theme) to the name so people can easily find them!
+
 <a href="https://chrome.google.com/webstore/detail/rainbow-devtools-theme/bafncadmgpabpojoohpejlmdbligjjlb">
 ![image](https://f.cloud.github.com/assets/39191/1788824/351e1230-693f-11e3-80fe-39535b7abaef.png)
 </a>
