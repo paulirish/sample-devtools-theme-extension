@@ -16,6 +16,8 @@ You can also use Yeoman to easily create new themes: https://github.com/zenoroch
 
 Then publish to the web store. Please add ["devtools theme"](https://chrome.google.com/webstore/search-extensions/devtools%20theme) to the name so people can easily find them!
 
+Additionally, I would recommend looking at what's happening at [zero-base-themes](https://github.com/mauricecruz/zero-base-themes), which is creating a platform for DevTools theming. Looks great!
+
 <a href="https://chrome.google.com/webstore/detail/rainbow-devtools-theme/bafncadmgpabpojoohpejlmdbligjjlb">
 ![image](https://f.cloud.github.com/assets/39191/1788824/351e1230-693f-11e3-80fe-39535b7abaef.png)
 </a>
