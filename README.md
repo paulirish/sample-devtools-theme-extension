@@ -3,7 +3,7 @@ sample-devtools-theme-extension
 
 A sample devtools theme extension using the new API
 
-Enable DevTools experiments in `about:flags`, then open DevTools, open `Settings > Experiments`, and toggle *Allow UI themes* experiment.
+Enable DevTools experiments at `chrome://flags/#enable-devtools-experiments`, relaunch Chrome, then open DevTools, open `Settings > Experiments`, and toggle *Allow UI themes* experiment.
 
 Read this:  https://code.google.com/p/chromium/issues/detail?id=318566#c33 
 
